@@ -6,6 +6,7 @@ TDD
 ```make
 sudo apt-get install googletest
 sudo apt-get install libgtest-dev
+sudo apt-get install libgmock-dev
 ```
 
 ## How to compile 
